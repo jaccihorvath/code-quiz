@@ -43,7 +43,7 @@ If the user enters their initials, they will be redirected to the Highscores pag
 
 
 ## Mock-Up
-The finished project can be deployed [here] (https://jaccihorvath.github.io/code-quiz/index.html).
+The finished project can be deployed [here](https://jaccihorvath.github.io/code-quiz/index.html).
 
 ### Demo
 ![demo](assets/demo.gif)
