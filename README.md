@@ -3,6 +3,12 @@
 ## Description
 In this repository, you will find a timed coding quiz with multiple-choice questions. This application will run in the browser and features dynamically updated HTML and CSS powered by JavaScript code written by me. It has a clean, polished and responsive interface.
 
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
+* jQuery
+
 ## How it works
 Users are brought to a landing page that features:
 * A navbar that includes a "view highscores" button and a placeholder for a timer
@@ -61,4 +67,5 @@ The finished project can be deployed [here](https://jaccihorvath.github.io/code-
 ![highscores](assets/highscores.png)
 
 
-
+## Contact Information
+Jacci Horvath, [workwithjacci@gmail.com](mailto:workwithjacci@gmail.com), 330-507-5166
